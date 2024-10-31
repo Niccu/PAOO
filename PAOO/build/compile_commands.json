@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/micla/Desktop/PAOO/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Library.dir\\main.cpp.obj -c C:\\Users\\micla\\Desktop\\PAOO\\main.cpp",
+  "file": "C:/Users/micla/Desktop/PAOO/main.cpp",
+  "output": "CMakeFiles/Library.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/micla/Desktop/PAOO/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Library.dir\\Book.cpp.obj -c C:\\Users\\micla\\Desktop\\PAOO\\Book.cpp",
+  "file": "C:/Users/micla/Desktop/PAOO/Book.cpp",
+  "output": "CMakeFiles/Library.dir/Book.cpp.obj"
+}
+]
